@@ -11,7 +11,7 @@
         Note:
         The solution is guaranteed to be unique.*/
 
-public class Solution {
+public class GasStation {
     public static void main(String[] args) {
         int[] ingas = {1, 2, 3, 4, 5};
         int[] incosts = {3, 4, 5, 1, 2};
