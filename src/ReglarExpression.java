@@ -11,7 +11,7 @@
         Note:
         The solution is guaranteed to be unique.*/
 
-public class Solution {
+public class ReglarExpression {
     public static void main(String[] args) {
         //String input = "aa", pattern = "a*";
         //String input = "aa", pattern = "a";

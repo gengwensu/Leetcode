@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d54287d2-3f6e-42f3-9518-11d216f89544" name="Default Changelist" comment="">
+    <list default="true" id="d54287d2-3f6e-42f3-9518-11d216f89544" name="Default Changelist" comment=" adding Logger and GasStation">
+      <change afterPath="$PROJECT_DIR$/src/ReglarExpression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/GasStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/GasStation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1PeAgCo2ozhVBwDiLXdq0wx4grx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -96,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="adding logger" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding logger" />
+    <MESSAGE value=" adding Logger and GasStation" />
+    <option name="LAST_COMMIT_MESSAGE" value=" adding Logger and GasStation" />
   </component>
 </project>
